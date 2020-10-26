@@ -35,3 +35,4 @@ C:\Users\tarik.proho\source\repos\SignalR Chat\obj\Debug\netcoreapp3.1\SignalRCh
 C:\Users\tarik.proho\source\repos\SignalR Chat\obj\Debug\netcoreapp3.1\SignalRChat.pdb
 C:\Users\tarik.proho\source\repos\SignalR Chat\obj\Debug\netcoreapp3.1\SignalRChat.genruntimeconfig.cache
 C:\Users\tarik.proho\source\repos\SignalR Chat\obj\Debug\netcoreapp3.1\SignalRChat.csproj.CopyComplete
+C:\Users\tarik.proho\source\repos\SignalR Chat\obj\Debug\netcoreapp3.1\SignalRChat.csprojAssemblyReference.cache
